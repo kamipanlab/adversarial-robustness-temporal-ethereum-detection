@@ -29,7 +29,7 @@ The repository also includes preliminary defense experiments based on adversaria
 ├── baseline/                                   # Baseline attack experiments
 ├── defense/                                    # Adversarial training experiments
 ├── summary/                                    # Processed experimental summaries
-├── datasets/																		# datasets for binary and multi-class detection
+├── datasets/                                   # Datasets for binary and multi-class detection
 ├── experiments.py                              # Main experiment entry
 ├── targeted_attack_with_all_features/          # Targeted attacks using all features
 ├── targeted_attack_with_transaction_features/  # Targeted attacks using transaction features
